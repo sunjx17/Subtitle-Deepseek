@@ -16,9 +16,9 @@ Video File: D:/Downloads/超时空辉夜姬！ E01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 498
-Active Line: 505
-Video Position: 39472
+Scroll Position: 798
+Active Line: 819
+Video Position: 63769
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -841,11 +841,11 @@ Dialogue: 0,0:44:02.76,0:44:05.22,Default,,0,0,0,,{\pos(960,150)}不如为那“
 Dialogue: 0,0:44:05.30,0:44:08.72,Default,,0,0,0,,{\pos(960,150)}若对这大千世界 一无所知\Nこの世界知らない方が
 Dialogue: 0,0:44:08.81,0:44:10.23,Default,,0,0,0,,{\pos(960,150)}岂非太吃亏了？\N損じゃん？
 Dialogue: 0,0:44:10.31,0:44:12.46,Default,,0,0,0,,{\pos(960,150)}累了的话 就稍微躲个懒吧\N疲れたらちょっとサボって
-Dialogue: 0,0:44:10.85,0:44:14.48,Default,,0,0,0,,好嘞！接下来终于要游戏直播啦！\Nよしっ次は いよいよゲーム配信だ！
+Dialogue: 0,0:44:10.85,0:44:14.48,Default,,0,0,0,,好嘞！接下来终于要开始游戏直播啦！\Nよしっ次は いよいよゲーム配信だ！
 Dialogue: 0,0:44:13.06,0:44:15.19,Default,,0,0,0,,{\pos(960,150)}补充点糖分 恢复元气\N糖分で回復して
 Dialogue: 0,0:44:15.27,0:44:19.03,Default,,0,0,0,,{\pos(960,150)}把自己 宠上天去吧\N自分の ご機嫌取ろう
-Dialogue: 0,0:44:15.27,0:44:19.03,Default,,0,0,0,,芦花 告诉我真相！\N芦花 真実 教えて！
-Dialogue: 0,0:44:19.69,0:44:23.82,Default,,0,0,0,,现在最流行的 毫无疑问是KASSEN！\N今 流行ってるのは 何と言ってもKASSEN！
+Dialogue: 0,0:44:15.27,0:44:19.03,Default,,0,0,0,,芦花、真实，快传授我秘诀！\N芦花 真実 教えて！
+Dialogue: 0,0:44:19.69,0:44:23.82,Default,,0,0,0,,要说现在最流行的，那毫无疑问是《KASSEN》！\N今 流行ってるのは 何と言ってもKASSEN！
 Dialogue: 0,0:44:20.19,0:44:24.37,Default,,0,0,0,,{\pos(960,150)}要演优等生什么的 根本做不到！\N優等生 演じてても無理！
 Dialogue: 0,0:44:23.91,0:44:24.99,Default,,0,0,0,,哇啊！\Nうわぁ！
 Dialogue: 0,0:44:25.12,0:44:27.20,Default,,0,0,0,,{\pos(960,150)}本色出演\Nナチュラルで
